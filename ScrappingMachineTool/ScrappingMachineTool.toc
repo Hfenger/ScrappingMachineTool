@@ -1,0 +1,13 @@
+## Interface: 80000
+## Title: |cffC495DD塞弗斯|rScrappingMachineTool
+## Notes: 驱魔金拆解助手BETA
+## Author: Sephuz
+## Version: 1.00.1
+## SavedVariablesPerCharacter: ScrappingMachineTool_IgnoreList
+## SavedVariables: ScrappingMachineTool_Data
+## X-Email: 1039291036@qq.com
+## X-License: GPL v2 or later.
+## X-Category: Tools
+
+ScrappingMachineTool.lua
+Bindings.xml
